@@ -1,0 +1,41 @@
+h1 {
+  text-decoration: underline;
+  color: rgb(255, 255, 255);
+}
+
+h2 {
+  color: rgb(255, 255, 255);
+}
+
+h3 {
+	font-style: Movement Regular;
+	color: rgb(255, 255, 255);
+}
+
+@font-face {
+  font-family: myFirstFont;
+  src: url(sansation_light.woff);
+}
+body {
+  box-shadow: inset 0 0 0 1000000000000px rgba(0, 0, 0, 0.4);
+  background-image: url("Free\ game\ 1.jpg");
+}
+body::after {
+  background-color: rgba(0, 0, 0, 0.25)
+}
+
+a:link {
+  color:white
+}
+
+a:visited {
+  color:white
+}
+
+a:hover {
+  color:black
+}
+
+a:active {
+  color:red
+}

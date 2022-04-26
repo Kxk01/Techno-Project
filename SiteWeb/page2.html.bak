@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Titre de la page</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <h1>What's Bofa you ask?</h1>
+    <p>
+      <a href="index.html">
+        <img src="maison.png" alt="Image de maison"/>
+      </a>
+	  Revenir à la page d'accueil
+      en cliquant sur la maison.<br />
+      
+    </p>
+  </body>
+</html>
